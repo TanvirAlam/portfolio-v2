@@ -1,7 +1,6 @@
-import React, { useState, useEffect, createRef } from "react";
+import React, { useState, createRef } from "react";
 import "./ExperienceCard.css";
 import ColorThief from "colorthief";
-import {skillsSection} from "../../portfolio";
 
 export default function ExperienceCard({ cardInfo, isDark }) {
   const [colorArrays, setColorArrays] = useState([]);
@@ -16,9 +15,9 @@ export default function ExperienceCard({ cardInfo, isDark }) {
     return typeof values === "undefined" ? null : "rgb(" + values.join(', ') + ")";
   }
 
-  const GetDescBullets = ({ descBullets, isDark }) => {
+  /*const GetDescBullets = ({ descBullets, isDark }) => {
     return descBullets ? descBullets.map((item,i) => <li key={i} className={isDark ? "subTitle dark-mode-text": "subTitle"}>{item}</li>) : null
-  };
+  };*/
 
   return (
     <div className={isDark ? "experience-card-dark":"experience-card"}>
