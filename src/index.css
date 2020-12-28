@@ -6,6 +6,13 @@
   font-display: swap;
 }
 @font-face {
+  font-family: 'Remote Hood-Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Remote Hood-Regular'), url('./assets/fonts/Romat-hood.otf') format('woff');
+  font-display: swap;
+}
+@font-face {
   font-family: 'Montserrat';
   src: local('Montserrat'), url('./assets/fonts/Montserrat-Regular.ttf') format('woff');
   font-display: swap;
