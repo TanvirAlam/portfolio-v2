@@ -21,7 +21,7 @@ export default function StackProgress() {
                                 {exp.techIcon.map((tech,i) => {
                                     return (
                                         <li key={i} className="software-skill-inline">
-                                            <i className={tech.fontAwesomeClassname} altName={tech.name}></i>
+                                            <i className={tech.fontAwesomeClassname}></i>
                                         </li>
                                     );
                                 })}
