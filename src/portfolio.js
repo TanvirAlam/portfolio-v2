@@ -114,6 +114,14 @@ const educationInfo = {
       descBullets: []
     },
     {
+      schoolName: "GCE O-Level",
+      logo: require("./assets/images/olevel.png"),
+      subHeader: "General Certificate of Education: Ordinary Level 5 Subject",
+      duration: "Aug 1997 - Mar 1999",
+      desc: "",
+      descBullets: []
+    },
+    {
       schoolName: "Viktorid Berge Gymnasium",
       logo: require("./assets/images/vbg.png"),
       subHeader: "Pre IB (International Baccalaureate)",
