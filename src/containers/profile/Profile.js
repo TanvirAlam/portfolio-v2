@@ -13,7 +13,7 @@ export default function Profile() {
   }
   function getProfileData() {
     const client = new ApolloClient({
-      uri: "https://api.github.com/graphql",
+      uri: "",
       request: (operation) => {
         operation.setContext({
           headers: {

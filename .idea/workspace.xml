@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc0b021-a709-40bc-bcee-227d3662cdcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3310010477ec134432d41be86ba20ba4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c03b3b4ba516ed8af4663c208c084698.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cdf90465ea9f1f7a9aff744d3a714baa.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/a5d0fc32bcef34b77e1be0ddd7e5fb1e3c6a1488.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/c2c4b6c8a6d4c54666189107d2cdf3890ae04bde.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d264d03b4515e4c03842e9f8e4f2d84f2192846e.json.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/educationCard/EducationCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/educationCard/EducationCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experienceCard/ExperienceCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experienceCard/ExperienceCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/education/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/education/Education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.d01dcc6e24cccd03a89c39fe3d04a6e6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/4.a922a401.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/4.a922a401.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.8fe75b39.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.8fe75b39.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.dedbbf71.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.dedbbf71.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/3.de10beb4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/3.de10beb4.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.59ab280a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.59ab280a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.8e62278e.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.8e62278e.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.6b09a8e2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.6b09a8e2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/profile/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/profile/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/workExperience/WorkExperience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/workExperience/WorkExperience.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +64,7 @@
       <updated>1609074824349</updated>
       <workItem from="1609074825709" duration="963000" />
       <workItem from="1609076537548" duration="60000" />
-      <workItem from="1609154922675" duration="2436000" />
+      <workItem from="1609154922675" duration="4198000" />
     </task>
     <servers />
   </component>
