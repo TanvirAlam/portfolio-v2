@@ -10,7 +10,7 @@ const greeting = {
   username: "Tanvir Alam",
   title: "Hi, I'm Tanvir",
   subTitle: emoji("I have a strong desire for change, disciplined dedication, and unbeatable persistence."),
-  resumeLink: "http://www.tanvir.dk/doc/tanvir_cv.pdf",
+  resumeLink: require("./docs/Tanvir-Alam-CV.pdf"),
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
