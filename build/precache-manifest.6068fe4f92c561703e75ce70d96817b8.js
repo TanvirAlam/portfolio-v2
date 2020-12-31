@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12e9287d007c3cea1279c67a49db3451",
+    "revision": "b6f5b4ffd0fa04c16b8e91828c49b6a2",
     "url": "/index.html"
   },
   {
-    "revision": "986a6761881a4dcfbae2",
+    "revision": "143d36e770d5ca01ec26",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "0e25d23560e655e6b740",
-    "url": "/static/css/main.5ad1435b.chunk.css"
+    "revision": "648d1306df61b1b3444b",
+    "url": "/static/css/main.e017f7cc.chunk.css"
   },
   {
-    "revision": "15da79c572eb344c0714",
-    "url": "/static/js/2.942a7591.chunk.js"
+    "revision": "e14ece3bdef32bd58958",
+    "url": "/static/js/2.0b3765c9.chunk.js"
   },
   {
-    "revision": "986a6761881a4dcfbae2",
-    "url": "/static/js/3.6697308f.chunk.js"
+    "revision": "143d36e770d5ca01ec26",
+    "url": "/static/js/3.4a9952cf.chunk.js"
   },
   {
-    "revision": "0e25d23560e655e6b740",
-    "url": "/static/js/main.09085002.chunk.js"
+    "revision": "648d1306df61b1b3444b",
+    "url": "/static/js/main.a1c2f4a7.chunk.js"
   },
   {
-    "revision": "c0c8346fbcb118cb9ed2",
-    "url": "/static/js/runtime-main.bc6aca5f.js"
+    "revision": "8738c14054fde95e75c9",
+    "url": "/static/js/runtime-main.1d92b9d8.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "2ddb77a9f86608a28cbb35932fdc60cb",
+    "url": "/static/media/Romat-hood.2ddb77a9.otf"
+  },
+  {
+    "revision": "f3a01fa7427a972c3fb0e5de53ca3850",
+    "url": "/static/media/Tanvir-Alam-CV.f3a01fa7.pdf"
   },
   {
     "revision": "e87a72f46ba8de28fe263cf884df80fb",
@@ -122,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
+  },
+  {
+    "revision": "1356273338cc0adddd22eb645b1359c5",
+    "url": "/static/media/olevel.13562733.png"
   },
   {
     "revision": "6f12111b8d56f1e2cfbb3b8c5cd9c413",
