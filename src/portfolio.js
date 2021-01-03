@@ -97,12 +97,10 @@ const educationInfo = {
       logo: require("./assets/images/malardalen.png"),
       subHeader: "Master of Science in Software Engineering",
       duration: "Jan 2005 - Feb 2007",
-      desc: "",
+      desc: "Completed MSc, Degree of Master of Science with Thesis complete with Philips Research",
       descBullets: [
-        "Research Methodology for Computer Science and Engineering",
-        "Real-Time Systems (Basic)",
-        "Real-Time Systems (Advance)",
-        "MSc. Thesis (Gesture recognition)"
+        "https://www.mdh.se/en/malardalen-university",
+        "https://www.mdh.se/en/malardalen-university/education/courses?kod=ENA411"
       ]
     },
     {
@@ -110,32 +108,43 @@ const educationInfo = {
       logo: require("./assets/images/independent.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "Aug 1999 - Mar 2004",
-      desc: "",
-      descBullets: []
+      desc: "Completed BSc, in Computer Science",
+      descBullets: [
+          "http://www.iub.edu.bd/",
+          "http://cse.iub.edu.bd/degrees/2",
+          "http://cse.iub.edu.bd/degrees/2#courselist"
+      ]
     },
     {
       schoolName: "GCE O-Level",
       logo: require("./assets/images/olevel.png"),
       subHeader: "General Certificate of Education: Ordinary Level 5 Subject",
       duration: "Aug 1997 - Mar 1999",
-      desc: "",
-      descBullets: []
+      desc: "Is a subject-based qualification conferred as part of the General Certificate of Education",
+      descBullets: [
+          "https://en.wikipedia.org/wiki/GCE_Ordinary_Level_(United_Kingdom)"
+      ]
     },
     {
       schoolName: "Viktorid Berge Gymnasium",
       logo: require("./assets/images/vbg.png"),
-      subHeader: "Pre IB (International Baccalaureate)",
+      subHeader: "Higher Secondary Education",
       duration: "Aug 1996 - Aug 1997",
-      desc: "",
-      descBullets: []
+      desc: "Pre IB (International Baccalaureate): Diploma is a 2-year university preparatory education and the syllabus, tests and exams are determined globally by the IBO",
+      descBullets: [
+          "https://vrskolor.se/alla-skolor/vrg-djursholm/",
+          "https://www.ibo.org/programmes/diploma-programme/"
+      ]
     },
     {
       schoolName: "Rödabergsskolan",
       logo: require("./assets/images/rodabergsskolan.png"),
-      subHeader: "Bachelor of Science in Computer Science",
+      subHeader: "Upper Secondary Education",
       duration: "Aug 1990 - Jul 1997",
-      desc: "",
-      descBullets: []
+      desc: "The education follows the Swedish curriculum: Completed Grade 5 to Grade 10",
+      descBullets: [
+          "https://engrodabergsskolan.stockholm.se/"
+      ]
     }
   ]
 }
