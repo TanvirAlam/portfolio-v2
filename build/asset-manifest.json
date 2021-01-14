@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.e017f7cc.chunk.css",
-    "main.js": "/static/js/main.95ba5c75.chunk.js",
-    "main.js.map": "/static/js/main.95ba5c75.chunk.js.map",
+    "main.css": "/static/css/main.674f6c47.chunk.css",
+    "main.js": "/static/js/main.241ae58a.chunk.js",
+    "main.js.map": "/static/js/main.241ae58a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1d92b9d8.js",
     "runtime-main.js.map": "/static/js/runtime-main.1d92b9d8.js.map",
     "static/js/2.0b3765c9.chunk.js": "/static/js/2.0b3765c9.chunk.js",
@@ -11,12 +11,12 @@
     "static/js/3.4a9952cf.chunk.js": "/static/js/3.4a9952cf.chunk.js",
     "static/js/3.4a9952cf.chunk.js.map": "/static/js/3.4a9952cf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.97bc3dc423860ba5d00feaee692f1754.js": "/precache-manifest.97bc3dc423860ba5d00feaee692f1754.js",
+    "precache-manifest.300282e5c6715b0d92cfd50aaf47ba90.js": "/precache-manifest.300282e5c6715b0d92cfd50aaf47ba90.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
-    "static/css/main.e017f7cc.chunk.css.map": "/static/css/main.e017f7cc.chunk.css.map",
+    "static/css/main.674f6c47.chunk.css.map": "/static/css/main.674f6c47.chunk.css.map",
     "static/media/index.css": "/static/media/Romat-hood.2ddb77a9.otf",
-    "static/media/Tanvir-Alam-CV.pdf": "/static/media/Tanvir-Alam-CV.f3a01fa7.pdf",
+    "static/media/Tanvir-Alam-CV.pdf": "/static/media/Tanvir-Alam-CV.c25f53c3.pdf",
     "static/media/agv.png": "/static/media/agv.e87a72f4.png",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
     "static/media/carecom.png": "/static/media/carecom.a49b4f47.png",
@@ -59,7 +59,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d92b9d8.js",
     "static/js/2.0b3765c9.chunk.js",
-    "static/css/main.e017f7cc.chunk.css",
-    "static/js/main.95ba5c75.chunk.js"
+    "static/css/main.674f6c47.chunk.css",
+    "static/js/main.241ae58a.chunk.js"
   ]
 }
