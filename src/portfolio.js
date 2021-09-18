@@ -231,54 +231,6 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [{
-      role: "Software Engineer",
-      company: "Dexi.io",
-      companylogo: require("./assets/images/dexi.png"),
-      date: "Aug 2021 – Present",
-      desc: "Dexi.io offers a powerful combination of one core data engine and many features developed from collaboratively working with hundreds of leading retailers, businesses and brands from all over the world. Dexi.io offers a complete Commerce Intelligence solution armed with features and services that allow businesses to rapidly capture, structure and ingest up-to-the-minute web data and extend its use to augment databases, provide immediate business insights or use directly in ‘smart feeds’ for digital marketplace commerce.",
-      descBullets: [{
-          name: "html-5",
-          fontAwesomeClassname: "fab fa-html5"
-        },
-        {
-          name: "JavaScript",
-          fontAwesomeClassname: "fab fa-js"
-        },
-        {
-          name: "css3",
-          fontAwesomeClassname: "fab fa-css3-alt"
-        },
-        {
-          name: "PostGrads",
-          fontAwesomeClassname: "fas fa-database"
-        },
-        {
-          name: "React",
-          fontAwesomeClassname: "fab fa-vuejs"
-        },
-        {
-          name: "TypeScript",
-          fontAwesomeClassname: "fab fa-js"
-        },
-        {
-          name: "Java",
-          fontAwesomeClassname: "fab fa-java"
-        },
-        {
-          name: "GitHub",
-          fontAwesomeClassname: "fab fa-git"
-        },
-        {
-          name: "Docker",
-          fontAwesomeClassname: "fab fa-docker"
-        },
-        {
-          name: "Mac",
-          fontAwesomeClassname: "fab fa-apple"
-        }
-      ]
-    },
-    {
       role: "Sr. Front-end Developer",
       company: "Carecom",
       companylogo: require("./assets/images/carecom.png"),
