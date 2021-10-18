@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8162d99c754f0e98a4c821854c75faca",
+    "revision": "f8615a1c462e209c726a4d8f0adfcd10",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "72788254fed775fc886a",
+    "revision": "7301e826b99a0995bc55",
     "url": "/static/css/main.e017f7cc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.26ae5d6f.chunk.js"
   },
   {
-    "revision": "72788254fed775fc886a",
-    "url": "/static/js/main.9c715bb0.chunk.js"
+    "revision": "7301e826b99a0995bc55",
+    "url": "/static/js/main.80f89e31.chunk.js"
   },
   {
     "revision": "53656fa20b361fc25cc3",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Romat-hood.2ddb77a9.otf"
   },
   {
-    "revision": "ec6ed37c90e5b7bfd084fc999dcb688e",
-    "url": "/static/media/Tanvir-Alam-CV.ec6ed37c.pdf"
+    "revision": "a2d86a1c743bdd5d6c87e64dd0d4caf8",
+    "url": "/static/media/Tanvir-Alam-CV.a2d86a1c.pdf"
   },
   {
     "revision": "e87a72f46ba8de28fe263cf884df80fb",

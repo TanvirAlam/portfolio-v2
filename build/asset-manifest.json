@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e017f7cc.chunk.css",
-    "main.js": "/static/js/main.9c715bb0.chunk.js",
-    "main.js.map": "/static/js/main.9c715bb0.chunk.js.map",
+    "main.js": "/static/js/main.80f89e31.chunk.js",
+    "main.js.map": "/static/js/main.80f89e31.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.307a7855.js",
     "runtime-main.js.map": "/static/js/runtime-main.307a7855.js.map",
     "static/js/2.e72cc3e9.chunk.js": "/static/js/2.e72cc3e9.chunk.js",
@@ -11,12 +11,12 @@
     "static/js/3.26ae5d6f.chunk.js": "/static/js/3.26ae5d6f.chunk.js",
     "static/js/3.26ae5d6f.chunk.js.map": "/static/js/3.26ae5d6f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a3cd984c49013fdacb2babd46df2b36c.js": "/precache-manifest.a3cd984c49013fdacb2babd46df2b36c.js",
+    "precache-manifest.7748b08f2cda0cfd87e9eed4908957a6.js": "/precache-manifest.7748b08f2cda0cfd87e9eed4908957a6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
     "static/css/main.e017f7cc.chunk.css.map": "/static/css/main.e017f7cc.chunk.css.map",
     "static/media/index.css": "/static/media/Romat-hood.2ddb77a9.otf",
-    "static/media/Tanvir-Alam-CV.pdf": "/static/media/Tanvir-Alam-CV.ec6ed37c.pdf",
+    "static/media/Tanvir-Alam-CV.pdf": "/static/media/Tanvir-Alam-CV.a2d86a1c.pdf",
     "static/media/agv.png": "/static/media/agv.e87a72f4.png",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
     "static/media/carecom.png": "/static/media/carecom.a49b4f47.png",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.307a7855.js",
     "static/js/2.e72cc3e9.chunk.js",
     "static/css/main.e017f7cc.chunk.css",
-    "static/js/main.9c715bb0.chunk.js"
+    "static/js/main.80f89e31.chunk.js"
   ]
 }
