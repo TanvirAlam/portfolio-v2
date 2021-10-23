@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8615a1c462e209c726a4d8f0adfcd10",
+    "revision": "bb5c3b9f9994b3d02b5246a79c8ec44d",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "7301e826b99a0995bc55",
+    "revision": "9c1c5eaac6ff01ec581c",
     "url": "/static/css/main.e017f7cc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.26ae5d6f.chunk.js"
   },
   {
-    "revision": "7301e826b99a0995bc55",
-    "url": "/static/js/main.80f89e31.chunk.js"
+    "revision": "9c1c5eaac6ff01ec581c",
+    "url": "/static/js/main.19c7996f.chunk.js"
   },
   {
     "revision": "53656fa20b361fc25cc3",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Tanvir-Alam-CV.a2d86a1c.pdf"
   },
   {
-    "revision": "e87a72f46ba8de28fe263cf884df80fb",
-    "url": "/static/media/agv.e87a72f4.png"
+    "revision": "bb255ed0d88c3757e218de79e215a938",
+    "url": "/static/media/agv.bb255ed0.png"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
@@ -56,16 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/carecom.a49b4f47.png"
   },
   {
-    "revision": "d4d1530292251a370df00d3a1663e57b",
-    "url": "/static/media/casalogic.d4d15302.png"
-  },
-  {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
     "url": "/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
-    "revision": "0ce7208b567d9ec1ee3a68c1ddb895cb",
-    "url": "/static/media/comadso.0ce7208b.png"
   },
   {
     "revision": "68e841388612be0c5143e2932fb77d4f",
@@ -84,14 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dexi.6a8fed5b.png"
   },
   {
-    "revision": "a3838e4dbfd70f1cf375f9f071dc24cd",
-    "url": "/static/media/dwarf.a3838e4d.png"
-  },
-  {
-    "revision": "cbd1294f32c8b6a3e1537e46125a447c",
-    "url": "/static/media/easytranslate.cbd1294f.png"
-  },
-  {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
     "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
@@ -108,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/harvardLogo.83a05b10.png"
   },
   {
-    "revision": "a5983e809f2ea585066d3b26cfad881b",
-    "url": "/static/media/independent.a5983e80.png"
+    "revision": "60f5bab4b1cb3665287af121adefe060",
+    "url": "/static/media/independent.60f5bab4.png"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
@@ -124,36 +108,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "4043e454c56ffb30524833d4c2294e3d",
-    "url": "/static/media/marpro.4043e454.png"
-  },
-  {
-    "revision": "e34639d247f546c5a683cf1fe957692f",
-    "url": "/static/media/newage.e34639d2.png"
-  },
-  {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "1356273338cc0adddd22eb645b1359c5",
-    "url": "/static/media/olevel.13562733.png"
   },
   {
     "revision": "6f12111b8d56f1e2cfbb3b8c5cd9c413",
     "url": "/static/media/opex.6f12111b.png"
   },
   {
-    "revision": "bc4ec2e4ba12cb4e5bce885a2ba7ade0",
-    "url": "/static/media/otobi.bc4ec2e4.png"
+    "revision": "4ca448a7e9c8c72c843b0848d2ab5c5e",
+    "url": "/static/media/otobi.4ca448a7.png"
   },
   {
-    "revision": "c2cb0d0cc9d27379bd2c4e5d76a77d59",
-    "url": "/static/media/pandiweb.c2cb0d0c.png"
-  },
-  {
-    "revision": "16305c3318f4e2b63d581c36d8d6b666",
-    "url": "/static/media/philips.16305c33.png"
+    "revision": "145565c5fc659373aea9d1555bc16a68",
+    "url": "/static/media/philips.145565c5.png"
   },
   {
     "revision": "c1a95f7335cbfb730b937e19e8830a53",
@@ -172,8 +140,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quoraLogo.4b2938b9.png"
   },
   {
-    "revision": "aa54970f9a98467a630fd46028c7fbea",
-    "url": "/static/media/rodabergsskolan.aa54970f.png"
+    "revision": "cde695e6a8bcc541b6c844b81e1ba2f5",
+    "url": "/static/media/rodabergsskolan.cde695e6.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
